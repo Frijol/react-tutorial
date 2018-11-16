@@ -1,3 +1,10 @@
+# React tutorial
+
+The basic React tutorial: a tic-tac-toe game
+
+[demo](https://react-tutorial-ifoundtheme.herokuapp.com/)
+
+-----
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
